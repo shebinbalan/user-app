@@ -24,10 +24,6 @@
             <table class="table table-striped table-bordered">
             <thead>
             
-                <!-- <th>User Name</th>
-                <th>Phone No</th>
-                <th>Designation</th>
-                <th>Department</th> -->
                 
                
             </thead>
