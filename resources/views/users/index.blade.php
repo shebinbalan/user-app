@@ -9,7 +9,7 @@
 <div class="container">
 <br> <br>
 <div class="pull-right">
-                <a class="btn btn-success" href="add-user"> Create New User</a>
+                <a class="btn btn-success" href="add-user"> Create New </a>
             </div>
             <br>
     <div class="row">
